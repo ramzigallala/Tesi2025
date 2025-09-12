@@ -1,0 +1,5 @@
+--- Risultati Finali Chronos ---
+RMSE: 27626.8102
+MAE: 23471.4512
+MSE: 763240640.0000
+Errore relativo medio: 16.12%
