@@ -1,0 +1,5 @@
+--- Risultati Finali della Cross-Validation ---
+MSE Medio (dai fold): 271551308.8000
+RMSE Medio (dai fold): 16478.8139
+MAE Medio (dai fold): 13878.7031
+Errore relativo medio: 9.83%
