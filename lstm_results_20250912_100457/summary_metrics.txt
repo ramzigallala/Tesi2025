@@ -1,0 +1,5 @@
+--- Risultati Finali della Cross-Validation ---
+MSE Medio: 481183148.4879
+RMSE Medio: 21935.8872
+MAE Medio: 16605.9700
+Errore relativo medio: 13.57%
